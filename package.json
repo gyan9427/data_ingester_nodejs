@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gyan9427/data_ingester_nodejs#readme",
   "dependencies": {
-    "@elastic/elasticsearch": "^7.16.0"
+    "@elastic/elasticsearch": "^7.16.0",
+    "config": "^3.3.7"
   }
 }
