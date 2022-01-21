@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gyan9427/data_ingester_nodejs/issues"
   },
-  "homepage": "https://github.com/gyan9427/data_ingester_nodejs#readme"
+  "homepage": "https://github.com/gyan9427/data_ingester_nodejs#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.16.0"
+  }
 }
